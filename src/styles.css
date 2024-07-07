@@ -1,0 +1,15 @@
+.bg-gradiante{
+    background: linear-gradient(90deg, #0D5287 -14.11%, #187DCA 13.97%, #05AACE 40.69%, #04D2C6 68.1%, #26E4C7 90.02%, #D3FFF5 117.42%);
+  } 
+
+  .animacion-block {
+    animation: fadeIn 1s ease-out forwards;
+  }
+  @keyframes fadeIn {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }

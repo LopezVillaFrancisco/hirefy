@@ -1,0 +1,36 @@
+[
+    {
+        "index": 1,
+        "title": "Redesigned notifications",
+        "date": "Aug 10, 2024",
+        "type": "Feat", 
+        "description": "Customizing your notification settings is now easier than ever. Quickly change your settings using presets like Focused or Mentions only, or tailor them to fit your needs.",
+        "image": "./releasephoto.png"
+    },
+    {
+        "index": 2,
+        "title": "Bugs",
+        "date": "Jul 23, 2024",
+        "type": "Fix", 
+        "description": "In our continuous effort to make Hirefy the most reliable recruiting platform, we eliminate bugs in the platform! 🚫Here's a summary of some of the major fixes:",
+        "list": {
+            "itemUno": "Unable to attach PDF to tasks using the Adobe integration.",
+            "itemDos": "The total contract time between talent and clients cannot be updated.",
+            "itemTres": "Some files are not loading when uploaded to portfolio.",
+            "itemCuatro": "You cannot update the company photo.",
+            "itemCinco": "You cannot update the job post list from the talent dashboard.",
+            "itemSeis": "The marketplace filters were not working correctly, they duplicated cards.",
+            "itemSiete": "Users could enter a talent's portfolio without having to log in.",
+            "itemOcho": "Homepage: new images with correct shadows.",
+            "itemNueve": "Email Hirefy signatures displayed incorrect padding."
+        }
+    },
+    {
+        "index": 3,
+        "title": "Redesigned Time Tracking",
+        "date": "Jul 15, 2024",
+        "type": "Feat", 
+        "description": "With the revamped Time Tracking interface, you get a streamlined design for easier, efficient time tracking. Track time directly from the menu bar and have admins record time for other users, ensuring total time-tracking control.",
+        "image":"redising.png"
+    }
+]
